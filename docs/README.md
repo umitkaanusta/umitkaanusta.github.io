@@ -1,5 +1,6 @@
 ---
 permalink: /
+mathjax: true
 ---
 # Blog
 [Exploring Exponential Smoothing (WIP)]()
