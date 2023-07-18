@@ -4,5 +4,13 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - _posts
   - README.md
-  - LICENSE
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  math_engine: katex
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
