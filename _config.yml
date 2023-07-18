@@ -8,7 +8,6 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
-  skin: dark
   social_links:
     twitter: umitkaanusta
     github: umitkaanusta
@@ -35,8 +34,6 @@ kramdown:
   syntax_highlighter: rouge
 
 # Everything below here should be left alone. Modifications may break fastpages
-future: true
-theme: minima
 plugins:
   - jekyll-relative-links
 relative_links:
