@@ -11,8 +11,8 @@ Inline python
 print("hello world")
 ```
 
-Inline math: \\( E=mc^2 \\) is great
+Inline math: $ E=mc^2 $ is great
 
 Block math:
 
-\\[ E=mc^2 \\]
+$$ E=mc^2 $$
