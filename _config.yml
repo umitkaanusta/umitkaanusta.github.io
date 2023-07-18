@@ -6,19 +6,13 @@ github_repo: "umitkaanusta.github.io"
 url: "https://umitkaanusta.com"
 baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 
-# Github and twitter are optional:
-minima:
-  skin: dark
-  #social_links: couldn't add these somehow
-  #  twitter: umitkaanusta
-  #  github: umitkaanusta
-
 use_math: true
 show_description: true
 show_image: false
 show_tags: true
 
-remote_theme: jekyll/minima
+theme: jekyll-theme-minima
+remote_theme: pmarsceill/just-the-docs
 
 titles_from_headings:
   enabled: true
