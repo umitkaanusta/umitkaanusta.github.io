@@ -1,11 +1,30 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
+title: Ümit Kaan Usta
+github_username: umitkaanusta
+# you can comment the below line out if your repo name is not different than your baseurl
+github_repo: "umitkaanusta.github.io"
+
+url: "https://umitkaanusta.com"
+baseurl: "/blog" # the subpath of your site, e.g. "/blog".
+
+# Github and twitter are optional:
+minima:
+  skin: dark
+  social_links:
+    twitter: umitkaanusta
+    github: umitkaanusta
+
+use_math: true
+show_description: true
+show_image: false
+show_tags: true
+
+remote_theme: jekyll/minima
+
+titles_from_headings:
   enabled: true
+  strip_title: true
   collections: true
-include:
-  - _posts
-  - README.md
+
 highlighter: rouge
 markdown: kramdown
 kramdown:
@@ -14,3 +33,21 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+
+# Everything below here should be left alone. Modifications may break fastpages
+future: true
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-octicons
+  - jekyll-toc
+  - jekyll-twitter-plugin
+  - jekyll-relative-links
+  - jekyll-remote-theme
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - _posts
+  - README.md
