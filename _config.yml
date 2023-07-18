@@ -1,19 +1,10 @@
-title: Ümit Kaan Usta
-github_username: umitkaanusta
-# you can comment the below line out if your repo name is not different than your baseurl
-# github_repo: "umitkaanusta.github.io"
-
-# url: "https://umitkaanusta.com"
-# baseurl: "/blog" # the subpath of your site, e.g. "/blog".
-
-use_math: true
-show_image: false
-
-titles_from_headings:
+plugins:
+  - jekyll-relative-links
+relative_links:
   enabled: true
-  strip_title: true
   collections: true
-
+include:
+  - README.md
 highlighter: rouge
 markdown: kramdown
 kramdown:
@@ -22,13 +13,3 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
-
-# Everything below here should be left alone. Modifications may break fastpages
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - _posts
-  - README.md
