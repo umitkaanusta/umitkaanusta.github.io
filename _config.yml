@@ -38,13 +38,7 @@ kramdown:
 future: true
 theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-octicons
-  - jekyll-toc
-  - jekyll-twitter-plugin
   - jekyll-relative-links
-  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
