@@ -8,9 +8,10 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
-  social_links:
-    twitter: umitkaanusta
-    github: umitkaanusta
+  skin: dark
+  #social_links: couldn't add these somehow
+  #  twitter: umitkaanusta
+  #  github: umitkaanusta
 
 use_math: true
 show_description: true
