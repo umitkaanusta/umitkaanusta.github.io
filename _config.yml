@@ -1,5 +1,7 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-katex
+  - jekyll-rouge
 relative_links:
   enabled: true
   collections: true
