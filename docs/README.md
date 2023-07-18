@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: layout
 ---
 # Blog
 [Exploring Exponential Smoothing (WIP)]()
