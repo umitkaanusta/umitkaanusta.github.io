@@ -37,6 +37,7 @@ kramdown:
 # Everything below here should be left alone. Modifications may break fastpages
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
