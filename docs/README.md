@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: default
+layout: script
 ---
 # Blog
 [Exploring Exponential Smoothing (WIP)]()
