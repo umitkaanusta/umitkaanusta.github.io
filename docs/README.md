@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /blog
 layout: default
 ---
 # Ümit Kaan Usta
