@@ -9,4 +9,4 @@ GitHub: [umitkaanusta](https://github.com/umitkaanusta)
 LinkedIn: [umitkaanusta](https://www.linkedin.com/in/umitkaanusta/)
 
 ## Blog
-[Exploring Exponential Smoothing (WIP)](https://umitkaanusta.github.io/smoothing.html)
+[Exploring Exponential Smoothing (WIP)](https://umitkaanusta.github.io/smoothing)

@@ -7,4 +7,4 @@ title: Exploring Exponential Smoothing
 
 # Exploring Exponential Smoothing
 
-Test $ E = mc^2 $
+WIP - Test inline math: $ E = mc^2 $
