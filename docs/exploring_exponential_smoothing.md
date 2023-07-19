@@ -1,4 +1,5 @@
 ---
+permalink: /smoothing.html
 layout: default
 title: Exploring Exponential Smoothing
 ---
