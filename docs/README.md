@@ -1,6 +1,5 @@
 ---
 permalink: /
-layout: head
 ---
 # Blog
 [Exploring Exponential Smoothing (WIP)]()
@@ -12,7 +11,7 @@ Inline python
 print("hello world")
 ```
 
-Inline math: $ E=mc^2 $ is great
+Inline math: \\( E=mc^2 \\) is great
 
 Block math:
 
