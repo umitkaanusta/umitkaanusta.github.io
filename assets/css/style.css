@@ -56,6 +56,22 @@ a:hover {
   color: #e8e8e8;
 }
 
+/* Banner */
+.banner-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto 40px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.banner-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
 /* Main Content */
 main {
   min-height: calc(100vh - 200px);
@@ -190,5 +206,10 @@ h2, h3 {
 
   .post-title {
     font-size: 32px;
+  }
+
+  .banner-container {
+    margin-bottom: 30px;
+    border-radius: 4px;
   }
 }
