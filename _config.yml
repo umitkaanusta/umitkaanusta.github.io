@@ -1,0 +1,17 @@
+# Site settings
+title: Umit Kaan Usta
+description: Personal website
+url: "https://www.umitkaanusta.com"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
